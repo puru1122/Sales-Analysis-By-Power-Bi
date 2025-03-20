@@ -1,5 +1,5 @@
 # Sales-Analysis-By-Power-Bi
-# Sales Analysis Dashboard
+
 
 This repository contains a **Sales Analysis Dashboard** created in Power BI. The dashboard provides insights into sales performance, budget comparisons, and product category trends.
 
